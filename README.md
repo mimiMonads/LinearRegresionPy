@@ -12,6 +12,10 @@ The notebook includes:
 - a comparison with `scikit-learn`
 - a short discussion and conclusion
 
+## Git repo
+
+https://github.com/mimiMonads/LinearRegresionPy
+
 ## Files
 
 - `insurance_linear_regression_notebook.ipynb`: the main notebook
